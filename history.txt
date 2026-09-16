@@ -1,0 +1,45 @@
+    1  cd Downloads/
+    2  ls
+    3  chmod +x chaos.sh 
+    4  chmod +x 'ubuntu_check 1.sh' 
+    5  sudo bash chaos.sh 
+    6  sudo bash
+    7  cat netchaos.
+    8  cat netchaos.pdf
+    9  chmod +x netchaos.sh
+   10  sudo apt install git
+   11  mkdir my-repo
+   12  cd my-repo
+   13  git init
+   14  git config user.name "DavidH59"
+   15  git config user.email "david.hernandez@st.metrotech.edu"
+   16  echo "# My Repo" > README.md
+   17  git add README.md 
+   18  git commit -m "Intitial commit"
+   19  git branch -M main
+   20  git remote add origin https://github.com/<username>/<repo-name>.git
+   21  git remote add origin https://github.com/<username>/<repo-name.git
+   22  git status
+   23  git log --oneline
+   24  ssh-keygen -t ed25519 -C "david.hernandez@st.metrotech.edu"
+   25  ssh-keygen -t ed25519 -c 
+   26  ssh-keygen -t ed25519 -C "david.hernandez@st.metrotech.edu
+   27  ssh-keygen -t ed25519 -C "david.hernandez@st.metrotech.edu"
+   28  eval "$(ssh-agent -s)"
+   29  ssh-add ~/.ssh/id_ed25519
+   30  git branch -M Main
+   31  ls
+   32  cd my-repo/
+   33  ls
+   34  git branch -M main 
+   35  git remote -v\
+   36  git remote -v
+   37  git remote add origin git@github.com:DavidH59/David.git
+   38  git push -u origin main
+   39  cat ~/.ssh/id_ed25519.pub 
+   40  git remote add origin git@github.com:DavidH59/David.git
+   41  git push -u origin main
+   42  ls
+   43  cat README.md 
+   44  history 
+   45  history > history.txt
